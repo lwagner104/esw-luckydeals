@@ -1,0 +1,87 @@
+<link href="https://www.campingwagner.de/media/content_images/contentseite-bootstrap.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.contentseite .container{
+   }
+   .row .cashback-steps{
+   background-color: #ac0032;
+   color: #ffffff;
+   text-align: center;
+   padding: 3%;
+   max-width: 960px;
+   margin-bottom: 5%;
+   font-size:
+   }
+   .col-md-4 {
+   padding-top: 2%;
+   padding-bottom: 3%;
+   font-size: 0.9em;
+   line-height: 1.3;
+   }
+   .contentseite ol{
+   margin-bottom: 4% !important;
+   }
+   h2{
+   padding-bottom: 4%;
+   }
+   .contentseite .link a {
+   color: white !important;
+   text-decoration: underline;
+   font-size: 0.8em;
+   }
+   @media only screen and (max-width: 375px) {
+   .contentseite h2{
+   font-size: 1.2em;
+   }
+   }
+</style>
+<style type="text/css">.page-content h1{display:none;}header.page__header{display: none;}.panel-alpha{display: none;}aside.outer-promotion{display: none !important;}.page__content.page__content--alpha{width: 100%;}.contentseite img{max-width: 100%; height: auto;}.contentseite #copy{text-align: left; padding: 1em 0em; margin: 0 auto;}@media screen and (min-width: 550px){.contentseite #copy{padding: 5em 1em;}}.contentseite .btn.esw{display: block; height: 50px; width: 240px; background-position: 50%; background-repeat: no-repeat; background-size: cover; transition: 0.4s; cursor: pointer;}.contentseite .btn.esw.clean{background-image: url(data:image/svg+xml;base64,PHN2ZyBpZD0iRWJlbmVfMSIgZGF0YS1uYW1lPSJFYmVuZSAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgNTAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMDAzODcxO30uY2xzLTJ7ZmlsbDojMWE0YzdmO30uY2xzLTN7ZmlsbDojZmZmO2ZpbGwtcnVsZTpldmVub2RkO308L3N0eWxlPjwvZGVmcz48dGl0bGU+WmVpY2hlbmZsw6RjaGUgMTwvdGl0bGU+PHJlY3QgY2xhc3M9ImNscy0xIiB4PSIwLjA4IiB5PSItMC4xNyIgd2lkdGg9IjI0MS4yNyIgaGVpZ2h0PSI1MS44MyIvPjxyZWN0IGNsYXNzPSJjbHMtMiIgeD0iMjA0LjI0IiB5PSIwLjE3IiB3aWR0aD0iMzcuMDkiIGhlaWdodD0iNDkuMTQiLz48cG9seWdvbiBjbGFzcz0iY2xzLTMiIHBvaW50cz0iMjE2LjI0IDE4Ljg4IDIxNi4yNCAzMy41OCAyMzAuOTQgMjYuMjMgMjE2LjI0IDE4Ljg4Ii8+PC9zdmc+); line-height: 40px; text-align: left; padding-left: 20px; color: #fff;}.contentseite .btn.esw:hover{opacity: 0.9;}.contentseite ul{list-style: square; list-style-position: outside; margin-left: 30px; margin-bottom: 24px;}.contentseite li{margin-bottom: 0.5em;}
+</style>
+<div class="contentseite">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><picture> <source media="(min-width: 550px)" srcset="/media/content_images/elektroshopwagner-lg-luckydeals.png" /> <img alt="" src="/media/content_images/elektroshopwagner-lg-luckydeals-small.png" /> </picture>
+<div id="copy">
+<h1>LG #luckydeals</h1>
+
+<h2><strong>Sichern Sie sich mit den #luckydeals von LG bis zu 500,- Euro Cashback!</strong></h2>
+
+<p>Ab dem 16. September k&ouml;nnen Sie wieder zuschlagen und dabei Geld sparen! Beim Kauf eines LG-Aktionsmodells in dem Zeitraum vom <strong>16.09. bis zum 15.11.2019&nbsp;</strong>k&ouml;nnen Sie sich eine Cashbacksumme von bis zu <strong>500,- Euro</strong> sichern.</p>
+
+<p>&nbsp;</p>
+
+<p>Und so klappt es:</p>
+
+<ol>
+	<li>Kaufen Sie ein ausgew&auml;hltes Haushaltsger&auml;t innerhalb des Aktionszeitraums <strong>vom 16.09. bis zum 15.11.2019.</strong></li>
+	<li>Registrieren Sie das Aktionsmodell&nbsp;bis zum <strong>30.11.2019&nbsp;</strong>auf der LG Aktionsseite.</li>
+	<li>Sie erhalten die jeweilige Cashbacksumme innerhalb von 60 Tagen auf das von Ihnen angegebene Konto erstattet.</li>
+</ol>
+
+<h3>Und so einfach funktioniert der Cashback-Prozess</h3>
+
+<div class="row cashback-steps">
+<div class="col-md-12"><img src="/media/content_images/luckydeals-cahsback-steps.png" />
+<div class="row">
+<div class="col-md-4">1. Entscheiden Sie sich f&uuml;r ein ausgew&auml;hltes Haushaltsger&auml;t</div>
+
+<div class="col-md-4">2. Registrieren Sie das Aktionsmodell bis zum 30.11.2019</div>
+
+<div class="col-md-4">3. Erhalten Sie ihr Cashback (in der Regel innerhalb von 60 Werktagen)</div>
+</div>
+
+<div class="row">
+<div class="col-md-12 link"><a href="/media/content_images/LG_luckydeals_Cashback_Aktion_Teilnahmebedingungen_09_2019.pdf" rel="nofollow" target="blank">Teilnahmebedingungen</a></div>
+</div>
+</div>
+</div>
+
+<p>Alle ausf&uuml;hrlichen Informationen zur #luckydeals Promotion und zu den Teilnahmebedingungen finden Sie unter:<a href="https://www.lg.com/de/promotions/luckydeals" rel="nofollow"> www.lg.com/de/promotions/luckydeals</a></p>
+
+<p><span style="font-size:9pt">Ausschlie&szlig;lich teilnahmeberechtigt sind private Teilnehmer, die das 18. Lebensjahr &uuml;berschritten und einen Wohnsitz in Deutschland haben sowie ein Aktionsger&auml;t innerhalb des Aktionszeitraums erworben haben. Weitere Informationen zu den Teilnahmebedingungen finden Sie&nbsp;<a href="https://www.lg.com/de/promotions/luckydeals" rel="nofollow" target="blank">hier</a>.</span></p>
+</div>
+<script>var $el;$el=$("input#searchString");if ($el.length){$el.attr("value", "");}</script>
+
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
